@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Yorkten';
+    src: url(font/insigne-Yorkten-Slab-Norm-Regular.ttf);
+    }
+
+* {
+    font-family: "Yorkten";
+}
+
+body {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+#Prix {
+    font-weight: bold;
+}
+
+#SousTitre {
+    font-weight: 200;
+}
